@@ -41,7 +41,7 @@ DB_PATH = 'crimemanagement.db'
 # Styling
 FONT = ("Consolas", 12)
 BUTTON_FONT = ("Consolas", 10, "bold")
-BG_COLOR = "#f343f1"
+BG_COLOR = "#858481"
 ENTRY_BG = "#ffffff"  # Background color for entry widgets
 ENTRY_FG = "#000000"  # Text color for entry widgets
 
